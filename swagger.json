@@ -5,8 +5,8 @@
     "version": "1.0.0",
     "title": "Kapidoo"
   },
-  "host": "petstore.swagger.io",
-  "basePath": "/v2",
+  "host": "localhost:3000/api",
+  "basePath": "/v1",
   "tags": [
     {
       "name": "user",
