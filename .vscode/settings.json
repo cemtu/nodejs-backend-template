@@ -1,0 +1,16 @@
+{
+  "editor.formatOnSave": true,
+  "prettier.printWidth": 100,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+
+  "editor.codeActionsOnSave": {
+    "source.fixAll.stylelint": true
+  },
+  "files.autoSaveDelay": 1200
+}
