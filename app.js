@@ -6,6 +6,6 @@ const swaggerDocument = require('./swagger.json');
 const app = express();
 
 app.use('/api', apiRoutes);
-app.use('/api-docs', swaggerUi.serve);
-app.get('/api-docs', swaggerUi.setup(swaggerDocument));
+app.use('/swagger', swaggerUi.serve);
+app.get('/swagger', swaggerUi.setup(swaggerDocument));
 module.exports = app;

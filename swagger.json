@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "title": "Kapidoo"
   },
-  "host": "localhost:3000/api/",
+  "host": "localhost:3000/api",
   "basePath": "/v1",
   "tags": [
     {
