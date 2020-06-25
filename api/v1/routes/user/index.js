@@ -2,11 +2,6 @@ const express = require('express');
 
 const router = express.Router();
 
-/*
-    API'ları kategorilerin altına uygun olarak yerleştir, ve API'da ne kadar anlaşılır olursa olsun,
-    oluşturduğun router altına yorum olarak herkesin anlayabileceği açıklama ekle.
-*/
-
 // MARK: POST Methods
 router.post('/register', (req, res) => {
   // When user wants to create new account.

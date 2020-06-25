@@ -1,0 +1,22 @@
+{
+  "development": {
+    "config_id": "development",
+    "node_port": "4000",
+    "user": "<mongo-db-user>",
+    "password": "<mongo-db-pass>"
+  },
+
+  "staging": {
+    "config_id": "staging",
+    "node_port": "8080",
+    "user": "<mongo-db-user>",
+    "password": "<mongo-db-pass>"
+  },
+
+  "production": {
+    "config_id": "production",
+    "node_port": "8080",
+    "user": "<mongo-db-user>",
+    "password": "<mongo-db-pass>"
+  }
+}
