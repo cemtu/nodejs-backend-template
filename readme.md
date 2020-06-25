@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Tech Stack](#techstack)
+- [Tech Stack](#tech-stack)
 - [Configuration](#configuration)
 - [Installation](#installation)
 
