@@ -1,13 +1,18 @@
 {
-  "name": "kapidoo-backend",
+  "name": "backend",
   "version": "1.0.0",
-  "description": "RESTful Backend for Kapidoo",
+  "description": "RESTful backend",
   "main": "index.js",
-  "repository": "https://github.com/BayCem/Kapidoo-backend.git",
-  "author": "Peekaboo!",
-  "license": "MIT",
+  "repository": "",
+  "author": "",
+  "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.9.20",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.4",
     "swagger-ui-express": "^4.1.4"
   },
   "devDependencies": {
